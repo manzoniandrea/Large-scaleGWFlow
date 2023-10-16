@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<VTKFile type="UnstructuredGrid" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <UnstructuredGrid>
+    <Piece NumberOfPoints="45" NumberOfCells="44">
+      <PointData Scalars="flowOut">
+        <DataArray type="UInt64" Name="bulk_node_ids" format="binary" RangeMin="4739" RangeMax="33846">
+          AQAAAACAAABoAQAAXQAAAA==eJwtxdkSgQAAAMBehSJUjtxnuc34QPlwM9p92ToJ/t7f5tanOXTbHXcdOXbPfSceeOiRU2fOPfbEU89ceO6Fl1557Y233nnvg48+uXTlsy+++ua7H3765R9ocRww
+        </DataArray>
+        <DataArray type="UInt64" Name="flowOut" format="binary" RangeMin="0" RangeMax="1">
+          AQAAAACAAABoAQAAIgAAAA==eJxjYEAFjGg0LnF0eULqiNVPCJCrn1h91HIfOgAAEPAAEw==
+        </DataArray>
+      </PointData>
+      <CellData Scalars="bulk_element_ids">
+        <DataArray type="UInt8" Name="vtkGhostType" format="binary" RangeMin="0" RangeMax="0">
+          AQAAAACAAAAsAAAADAAAAA==eJxjYCAeAAAALAAB
+        </DataArray>
+        <DataArray type="UInt64" Name="bulk_element_ids" format="binary" RangeMin="61724" RangeMax="66148">
+          AQAAAACAAABgAQAAgwAAAA==eJyr/8wABp+h9J0/EPrDF1RanIkRTLt+hfCZPqHSb6D6g6DyelBxmY8Q2vAzKm39DUL3QempfyF0NZQ/Bcr/AjXn7ndU+iuUFmCEuCsF6j4DqPp8qDvOQtWtgdJeUPsP/YPQP6F8K6i8CRr9DuqeC2j0RSg9GY2uhoZXGJQPANowPm0=
+        </DataArray>
+      </CellData>
+      <Points>
+        <DataArray type="Float64" Name="Points" NumberOfComponents="3" format="binary" RangeMin="5578456.465944136" RangeMax="5636009.177567974">
+          AQAAAACAAAA4BAAAKwQAAA==eJwVk3lM02cYxwcCgYyzRWQ6DkHON0BbehDO9ylL1IEIslcJYRwdSBl0ckScAuEUZSEcMlquIjAO6YZlDpTCaAfqxka2oaBloIiSVVIRmFKGYGS//fvJJ9+87/d5Hhm3vP2VB4LnTo3xWj0Ce78JGOKlfIoZ/ekNHgwEf9XxPzhmSGBLGZPfPUHwTY+o6kQugkmDlWm5MYHHeSOtP1tG4tL9ibJaJoIv060inN4n8K7I2NxvJAxPcbh7LQMQtEecLaSbEnB4aOTq1xGGMx5NmKTxENQLhKIdii+oNG3Gt47ggpxbLwYjEKxO9Q8cNidgOm5Zpj0Ziv9RXa7siEOwkoiWNWYEzgZMqzOv8/Gd5DpzzwQE8/N9w/ctCGxOB1k37eFjx0u3M0TpCFKsXoc2Udxgjcfuy+Lj8VzTuE0Rgi+it8QBlgTuxVc9no4CrOgS1tsUInDjSmMNKT/QxLJnxwJwM3uaeagWQeEbzYXTlG9TW8rBiSFY+5CmP9yE4BO3hrWP6QSereYWi+KCcTYv0ks3iCC7mL6n1IaA4PeZ5zppEJZpbUelfQhSjX+V9+4jMMQP35YZBuGO1F+YQ5Q/o2Q2TNsSqPA2DUyNDcFBZt0C2Q8IhL2YHn2AwFJSzL2Wz4JwlAtDSRtBwK+tP75lR+A9gXpkVMnDA60lLeoBBBZstf9bewJ83S6/R87DEuFAR3kLgo0ZVkKXAwG71dYHZ2b9cf7k+dduDdRceuaKsxwJbJxirOkP+eE0iY79fTsCTarkSroTAe8brr5BKg5eXulNC2lEcOTfc9pmio9NNRr0NrPxR73J3UopgnjZ5YGTzgRuK3/L3L/oh4srdt4KqH4UwYKaMhcCnR4qWWU7B2cupKhDryEYjNyIobkT+PzOXVrJAgePsZ9OXutEYG2iV33Ig8DVgogDBnVsHDvnOMoXI0hKbyzPpXjlMWlnQRkXVwUuCn2rEVzsvrC97UkgnLXeEZnBwhWm/duRXyOY6FLNuyMCJHHsw+2XTPyUuBxfpPwE7UsFeFF7UprVdl3Lwikl1svzVD9HL2nECT4EFh/lSfSy2fgrMfFxqEewdFSRlM8g8KPYbo6hZOJntUY9hMqnW1Ss+7Oou6DLn2S7MXG5ukfVRf13ufpg9QKTQFFynqo5ywe7v2oLW29D4CW8srtC+RuGcVfXQljYrE9w/xyVc6MvMyeBTcC/6sGQlb4vNrtrS3OmcmLZp3wyOQTSJIXvhosY2NRZ4q/oovr8Y3a2lfIDx/WcpTdZuDD8TcZ8D4IQjb3H/36Nu8g2l+6DxXJfo7DvqPfsruxzobj934d9lZNeOMfTcPXEtwh0QpNFVx4B6z9/UnBOeOMQLvfFCJUfTFvSRVN86PTwmeYSFq7p37x4Xo4gwtaR4+JHQJF1UNTxhIn/A8tuzx0=
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              5578456.4659
+            </Value>
+            <Value index="1">
+              5636009.1776
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </Points>
+      <Cells>
+        <DataArray type="Int64" Name="connectivity" format="binary" RangeMin="0" RangeMax="44">
+          AQAAAACAAADAAgAAXQAAAA==eJxdxUkCgQAAAMCEkq0dWbJn/f/7HHKauUwQ9AYc8pBHPOaIY55wwlOe8ZwXvOSUM8654JIrrnnFa95ww1ve8Z4P3PKRT3zmC1/5xnfu+MFPfvGbP/z9/wMP2QeR
+        </DataArray>
+        <DataArray type="Int64" Name="offsets" format="binary" RangeMin="2" RangeMax="88">
+          AQAAAACAAABgAQAAYAAAAA==eJwtxdEGwgAAAMAkM0lmkkwmSTKZyWSSyUwySWbS/39JD9293Hj0N3Hg0FPPPHfk2AsvvXLitVNvvPXOex+c+ejchU8ufXbli6+ufXPj1nc/3Pnpl9/uPfjjr3+2TQe9
+        </DataArray>
+        <DataArray type="UInt8" Name="types" format="binary" RangeMin="3" RangeMax="3">
+          AQAAAACAAAAsAAAADAAAAA==eJxjZiYeAAALxgCF
+        </DataArray>
+      </Cells>
+    </Piece>
+  </UnstructuredGrid>
+</VTKFile>
